@@ -1,4 +1,4 @@
-namespace Days.Day2;
+namespace _30_Days_of_Code.Days;
 public static class Day2
 {
     public static void solve(double meal_cost, int tip_percent, int tax_percent)

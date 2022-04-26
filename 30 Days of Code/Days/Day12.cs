@@ -1,6 +1,4 @@
-using System.Linq.Expressions;
-
-namespace Days.Day12;
+namespace _30_Days_of_Code.Days;
 public static class Day12
 {
     public static void Test()

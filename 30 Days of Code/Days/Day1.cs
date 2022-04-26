@@ -1,8 +1,12 @@
-namespace Days.Day1;
+namespace _30_Days_of_Code.Days;
 public static class Day1
 {
     public static void Solution()
     {
+        int i = 4;
+        double d = 4.0;
+        string s = "HackerRank ";
+        
         int i2;
         double d2;
         string s2;

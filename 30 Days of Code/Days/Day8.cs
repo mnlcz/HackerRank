@@ -1,4 +1,4 @@
-namespace Days.Day8;
+namespace _30_Days_of_Code.Days;
 public static class Day8
 {
     public static void Solution()

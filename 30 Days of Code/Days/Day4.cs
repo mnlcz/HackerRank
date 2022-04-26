@@ -1,4 +1,4 @@
-namespace Days.Day4;
+namespace _30_Days_of_Code.Days;
 public static class Day4
 {
     class Person
